@@ -4,7 +4,7 @@
 * Aussagenlogik
     * DPLL, CDCL
 
-* Lineare Arithmetik
+* [Lineare Arithmetik](lia.md)
     * (Gauss)            (Gleichungen über $\mathbb{Q}$)
     * Ad-Hoc-Verfahren (Gleichungen über $\mathbb{Z}$)
     * Fourier Motzkin  (Ungleichungen über $\mathbb{Q}$)
