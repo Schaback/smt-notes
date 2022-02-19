@@ -5,18 +5,16 @@
     * DPLL, CDCL
 
 * [Lineare Arithmetik](lia.md)
-    * (Gauss)            (Gleichungen über $\mathbb{Q}$)
+    * (Gauss)          (Gleichungen über $\mathbb{Q}$)
     * Ad-Hoc-Verfahren (Gleichungen über $\mathbb{Z}$)
     * Fourier Motzkin  (Ungleichungen über $\mathbb{Q}$)
     * Omega-Test       (Ungleichungen über $\mathbb{Z}$)
 
-* Uninterpretierte Funktionen
+* [Uninterpretierte Funktionen](uf.md)
     * Kongruenzabschluss
     * Ackermann Reduktion auf Gleichheitslogik
-
-* Gleichheitslogik
-    * Äquivalenzabschluss (Union-Find)
-    * Reduktion auf SAT
+        * Äquivalenzabschluss (Union-Find)
+        * Reduktion auf SAT
 
 * Bitvektoren
     * Bitblasting (Reduktion auf SAT)
