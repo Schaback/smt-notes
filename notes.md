@@ -1,3 +1,4 @@
+# SMT-Solving
 ## Alle Entscheidungsverfahren
 
 * Aussagenlogik
@@ -48,5 +49,3 @@
 | Lin. Gl.    | Elimination      | Gauss           | Ganesh                     |
 | Lin. Ugl.   | Omega-Test       | Fourier-Motzkin | Bitvektoren                |
 | nichtl. Ugl | _unentscheidbar_ | CAD             | Hensel-Lifting             |
-
-## Eigenschaften
