@@ -1,5 +1,8 @@
 # Uninterpretierte Funktionen
 
+* Beschriebene Verfahren nur für quantorenfreies Fragment.
+* Nur konjunktive Formeln (DPLL(T))
+
 ## Kongruenzabschluss
 
 Berechne Kongruenzabschluss von $ \{s_i=t_i,...,s_n=t_n\} $ auf der Teiltermmenge $S_\varphi$\

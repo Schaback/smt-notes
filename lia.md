@@ -1,5 +1,8 @@
 # Linear Integer Arithmetic
 
+* Beschriebene Verfahren nur für quantorenfreies Fragment.
+* Nur konjunktive Formeln (DPLL(T))
+
 ## Gauss            (Gleichungen über $\mathbb{Q}$)
 
 * Schulverfahren

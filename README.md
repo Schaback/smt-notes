@@ -16,11 +16,11 @@
         * Äquivalenzabschluss (Union-Find)
         * Reduktion auf SAT
 
-* Bitvektoren
+* [Bitvektoren](bitvec.md)
     * Bitblasting (Reduktion auf SAT)
     * Reduktion auf LIA
 
-* Array Theorie
+* [Array-Theorie](array.md)
     * Ad-Hoc-Verfahren für QFF
     * Array-Property Fragment
 
