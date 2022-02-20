@@ -24,17 +24,17 @@
     * Ad-Hoc-Verfahren für QFF
     * Array-Property Fragment
 
-* Modulare Arithmetik
+* [Modulare Arithmetik](mod.md)
     * Lineare Kongruenzen $(mod\ 2^k)$ (Ganesh)
     * (univariate) Polynom Kongruenzen $(mod\ 2^k)$ Hensel-Lifting
 
-* Nicht-Lineare Arithmetik (in VL: Quantorenelimination)
+* [Nicht-Lineare Arithmetik (in VL: Quantorenelimination)](quant.md)
     * Polynomungleichungen über _real closed field_ (~ axiomatisierbares $\R$)
       mit Sturmschen Ketten (CAD?)
 
 * DPLL(T)
 
-* Kombination von Theorien
+* [Kombination von Theorien](combs.md)
     * nichtdeterministische Nelson-Oppen
     * deterministische Nelson-Oppen für konvexe Theorien
     * deterministische Nelson-Oppen für nicht-konvexe Theorien
