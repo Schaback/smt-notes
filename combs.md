@@ -8,6 +8,21 @@
 **Stably Infinite:**\
     Eine Theorie ist _stably-infinite_ gdw. jede erfüllbare, quantoren-freie T-Formel ein Modell mit einem unendlichen Universum hat.
 
+**Welche Theorien erfüllen was?**
+
+| Nicht Stably-Inf. | Nicht Konvex | Konvex |
+|-------------------|--------------|--------|
+|                   | LIA          |        |
+|                   |              | LRA    |
+|                   |              | UF     |
+| Bitvektoren       |              |        |
+| Arrays (???)      | Arrays (???) |        | 
+| Modulare Arithm.  |              |        |
+
+Gegenbeispiele:\
+$(0\le x\le 1)\Rightarrow x=0\lor x=1$ \
+$read(write(a,i,v),j)=v \Rightarrow (i=j \lor read(a,j)=v)$
+
 -----
 
 **Satz von Nelson-Oppen:**\
